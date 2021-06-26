@@ -1,41 +1,28 @@
-# Freelancing Allrounder
-I would call myself that, I'm interested in all those fields. So why not just try them out?
-Programming? Designing? I've tried a lot at least once!
+### 🏅 My Capabilities
+#### Languages
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="CSharp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 
-## Programming
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="32">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="32">
+<br />
 
-JavaScript since 2016<br>
-TypeScript since 2020
+#### Frontend
+<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="SASS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="Vue" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 
-TypeScript, my all time favourite. Programming with is like a wonderful never ending adventure.<br>
-There're vast possibilities which can be written down and realized just by the power typing Keys.
+<br />
 
-**Frontend**
+#### Backend
+<img align="left" alt="Node.js" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
-Vue.js, Svelte & Angular.js
+<br />
 
-**Backend**
-
-Express with GraphQL
-<br><br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" height="32">
-
-CSharp since 2019
-
-Not intensively, yet I got my hands into it. 
-
-## Designing
-Figma since 2019
-
-UI Designing is wonderful, so many options a true other adventure.
-
-## Modeling
-See my Portfolio about Modeling on ArtStation: [AlteredCarbonate](https://www.artstation.com/alteredcarbonate)
-
-Blender 2016 - 2018 <br>
-Autodesk Maya since 2018
-
-I've worked on a Indie Game called [Onslaught: Armoured Assault](https://store.steampowered.com/app/1049910/Onslaught_Armoured_Assault/).<br>
-I've created the the Faction Ships and Structures.
+### 📈 Statistics
+<a href="https://github.com/ZackaryH8">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlteredCarbonate&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlteredCarbonate&layout=compact&theme=vue-dark&hide=html" />
+</a>
