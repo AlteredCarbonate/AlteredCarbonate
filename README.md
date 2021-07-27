@@ -6,8 +6,8 @@
 <br />
 
 #### Frontend
-<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="SASS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="Node.js" width="35px" src="https://svelte.dev/svelte-logo-outline.svg" />
 <img align="left" alt="Vue" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
