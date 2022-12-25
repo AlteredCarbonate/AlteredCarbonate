@@ -30,6 +30,8 @@
 #### Game Engines
 <img align="left" alt="Godot" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" />
 <img align="left" alt="Unreal Engine" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" />
+<img align="left" alt="Unity" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" />
+<img align="left" alt="Unigine" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Unigine-Logo.png/800px-Unigine-Logo.png" />
 <br />
 
 ### 📈 Statistics
