@@ -3,6 +3,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="CSharp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="GoLang" width="35px" src="[https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)" />
 <br />
 
 #### Frontend
