@@ -4,9 +4,6 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat)
-![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat)
 <br />
 
 ## Frontend
@@ -25,7 +22,6 @@
 
 ## Backend
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 <br />
@@ -45,11 +41,9 @@
 
 
 ## Game Engines
-![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 ![Unreal Engine Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 <img align="left" alt="Unigine" width="81px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Unigine-Logo.png/800px-Unigine-Logo.png" style="padding-right: 5px;"/>
-![CRYENGINE Badge](https://img.shields.io/badge/CRYENGINE-000?logo=cryengine&logoColor=fff&style=flat)
 <br />
 <br />
 # 📈 Statistics
